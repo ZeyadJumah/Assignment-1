@@ -1,4 +1,4 @@
-﻿
+﻿//Edit 
 Console.Write("enter  bill amount : ");
 Double amount = Convert.ToDouble(Console.ReadLine());
 Double discont = 0;
